@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SaveForm</string>
+    <string name="form_title"/>
+    <string name="navigation_drawer_open"/>
+    <string name="navigation_drawer_close"/>
+    <string name="form_name"/>
+    <string name="form_city"/>
+    <string name="form_bornDate"/>
+    <string name="form_acptRules"/>
+    <string name="form_acptGdpr"/>
+    <string name="form_surname"/>
+</resources>
